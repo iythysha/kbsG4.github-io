@@ -1,0 +1,186 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:989px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u48_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:927px;
+  height:37px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Arial Bold', 'Arial';
+  font-weight:700;
+  font-style:normal;
+}
+#u48 {
+  border-width:0px;
+  position:absolute;
+  left:62px;
+  top:54px;
+  width:927px;
+  height:37px;
+  font-family:'Arial Bold', 'Arial';
+  font-weight:700;
+  font-style:normal;
+}
+#u48_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:927px;
+  white-space:nowrap;
+}
+#u49 {
+  border-width:0px;
+  position:absolute;
+  left:91px;
+  top:124px;
+  width:109px;
+  height:23px;
+  font-family:'Baskerville Old Face';
+  font-weight:400;
+  font-style:normal;
+  font-size:20px;
+  text-align:center;
+}
+#u49_text {
+  border-width:0px;
+  position:absolute;
+  left:16px;
+  top:0px;
+  width:91px;
+  word-wrap:break-word;
+}
+#u49_input {
+  border-width:0px;
+  position:absolute;
+  left:-3px;
+  top:3px;
+}
+#u50 {
+  border-width:0px;
+  position:absolute;
+  left:200px;
+  top:124px;
+  width:109px;
+  height:23px;
+  font-family:'Baskerville Old Face';
+  font-weight:400;
+  font-style:normal;
+  font-size:20px;
+  text-align:center;
+}
+#u50_text {
+  border-width:0px;
+  position:absolute;
+  left:16px;
+  top:0px;
+  width:91px;
+  word-wrap:break-word;
+}
+#u50_input {
+  border-width:0px;
+  position:absolute;
+  left:-3px;
+  top:3px;
+}
+#u51 {
+  border-width:0px;
+  position:absolute;
+  left:646px;
+  top:124px;
+  width:109px;
+  height:23px;
+  font-family:'Baskerville Old Face';
+  font-weight:400;
+  font-style:normal;
+  font-size:20px;
+  text-align:center;
+}
+#u51_text {
+  border-width:0px;
+  position:absolute;
+  left:16px;
+  top:0px;
+  width:91px;
+  word-wrap:break-word;
+}
+#u51_input {
+  border-width:0px;
+  position:absolute;
+  left:-3px;
+  top:3px;
+}
+#u52 {
+  border-width:0px;
+  position:absolute;
+  left:309px;
+  top:124px;
+  width:142px;
+  height:23px;
+  font-family:'Baskerville Old Face';
+  font-weight:400;
+  font-style:normal;
+  font-size:20px;
+  text-align:center;
+}
+#u52_text {
+  border-width:0px;
+  position:absolute;
+  left:16px;
+  top:0px;
+  width:124px;
+  word-wrap:break-word;
+}
+#u52_input {
+  border-width:0px;
+  position:absolute;
+  left:-3px;
+  top:3px;
+}
+#u53 {
+  border-width:0px;
+  position:absolute;
+  left:471px;
+  top:124px;
+  width:109px;
+  height:23px;
+  font-family:'Baskerville Old Face';
+  font-weight:400;
+  font-style:normal;
+  font-size:20px;
+  text-align:center;
+}
+#u53_text {
+  border-width:0px;
+  position:absolute;
+  left:16px;
+  top:0px;
+  width:91px;
+  word-wrap:break-word;
+}
+#u53_input {
+  border-width:0px;
+  position:absolute;
+  left:-3px;
+  top:3px;
+}
